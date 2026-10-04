@@ -60,5 +60,6 @@ switch (op)
         Console.WriteLine("Invalid operator!");
         break;
 }
+Console.WriteLine("Shit message from mehrzad !");
 
 Console.ReadKey();
