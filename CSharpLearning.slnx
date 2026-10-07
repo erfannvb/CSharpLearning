@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="ArrayMethod-Mehrzad/ArrayMethod-Mehrzad.csproj" Id="9bf76f89-b9ab-4b79-b440-f8e393699525" />
+  <Project Path="SimpleCalculator-Erfan/SimpleCalculator-Erfan.csproj" />
+  <Project Path="TodoList-Erfan/TodoList-Erfan.csproj" />
+  <Project Path="todolist-Mehrzad/todolist-Mehrzad.csproj" />
+</Solution>
